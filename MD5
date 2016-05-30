@@ -1,0 +1,17 @@
+8077533dd57ddc57c4311590770869dc *DESCRIPTION
+909b0905b6303276a6ff8d300bd33892 *NAMESPACE
+29eaab48d63f9f938ce4f2a433ec4146 *R/HANOVA.R
+4ff93aec67676e029fb49df1ceb18a86 *R/diffOsc.R
+5964777af8de5109ddbc382a161de1c5 *R/harmNoisePred.R
+004a1653a00dba7166c146fc4bfce0b7 *R/harmScaleTest.R
+f4f9ae46eb535fb559b1284869909b00 *R/internalUtilities.R
+dac2b77fbe280296d4d1d74d133058e3 *R/matrixOperations.R
+c56586bc999906f456339dbbc26c2e12 *R/robustDODR.R
+15428eb3080bcecf33ed0a11b645764f *R/robustHarmScaleTest.R
+9d54ace7c83a332adbbaf00c280e16d8 *inst/CITATION
+49c9cf3c2c18e617087f0efe0d30fa4b *man/HANOVA.Rd
+cf6afe38618db75227fdc827ecc58e08 *man/dodr.Rd
+b54a3ef2e2ef81d2d38cc078b459df33 *man/harmNoisePred.Rd
+24c2ba6344ce4e56c34e4bc06d51738b *man/harmScaleTest.Rd
+47ae7bf564470d61ee92127ff216714e *man/robustDODR.Rd
+ae09d7bef11d09c6aa143a5ecebc7044 *man/robustHarmScaleTest.Rd

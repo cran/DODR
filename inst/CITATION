@@ -1,0 +1,15 @@
+citHeader("To cite package 'dodr' in publications use:")
+
+citEntry(entry="article",
+    journal="Bioinformatics",
+        title = paste("Differential rhythmicity: detecting altered",
+                        "rhythmicity in biological data"),
+        author = personList(as.person("Paul F. Thaben"),
+                            as.person("Pål O. Westermark")),
+        year = 2016,
+        doi = "10.1093/bioinformatics/btw309",
+        textVersion = paste(
+        "Paul F. Thaben and Pål O. Westermark.",
+        "Differential rhythmicity: detecting altered",
+                        "rhythmicity in biological data",
+        "Bioinformatics."))
